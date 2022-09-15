@@ -3,7 +3,7 @@
 kenadi.campbell@gmail.com <br />
 [linkedin.com/kenadicampbell](https://www.linkedin.com/in/kenadicampbell/)
 
-User centered UX designer, knowledgeable in design principles and process necessary to see project through all stages, from conception to delivery. Effective team player with skills in public speaking and presentation. 
+User centered UX designer, knowledgeable in design principles and processes necessary to see project through all stages, from conception to delivery. Effective team player with skills in public speaking and presentation. 
 
 ---
 
