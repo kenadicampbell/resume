@@ -16,7 +16,7 @@ Google UX Design Professional Certificate (Nov 2021 - June 2022)
 ## SKILLS
 - **Proficiency:** UI Design, UX Design, User Centered Design, User Research, Usability Testing, Wireframing, High Fidelity Mockups, Prototyping, Responsive Designs,
 Sight Map & Workflow, Information Architecture, Problem Solving, Leadership, Teamwork & Collaboration, Public Speaking
-- **Tools**: Figma, Adobe XD, Balslmiq, Axure, Sketch   
+- **Tools**: Figma, Adobe XD, Balslmiq, Axure
 
 ---
 
